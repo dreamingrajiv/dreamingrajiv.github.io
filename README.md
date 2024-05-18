@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Let's Chat!
 
-Linkedin : 
-Twitter :
+- Linkedin : [https://www.linkedin.com/in/dreamingrajiv/]
+- Twitter : [https://x.com/dreamingrajiv]
 
 
 ### Support or Contact
