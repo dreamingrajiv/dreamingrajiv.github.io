@@ -4,7 +4,10 @@ Welcome to my home on the internet. I plan to use this website to write more abo
 
 - Professionally, I'm currently working as a Senior Solutions Consultant at **Sprinto**, a B2B SaaS platform helping companies streamline their GRC compliance
 
-
+### Books I'm currently reading [bookshelf]:
+- Thinking in Systems [Link](https://www.goodreads.com/en/book/show/3828902)
+- Outlive [Link](https://www.goodreads.com/book/show/61153739-outlive)
+- Wanting [Link](https://www.goodreads.com/book/show/54860444-wanting)
 
 ### Let's Chat!
 
